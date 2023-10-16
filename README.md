@@ -11,5 +11,5 @@ To view and interact with the the dashboards, click on the link
   <li>COVID Dashboard (https://public.tableau.com/views/CovidDasboaed/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
   </li>
 </ul>
-![Covid_Dasboard](Covid_Dasboard.jpg)
+![Covid_Dasboard](Covid_Dasboard.JPG)
 
